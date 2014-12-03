@@ -7,7 +7,8 @@ This is <a href="http://www.gnu.org/licenses/gpl.html">open-source</a> Java soft
 Also contains Matlab function for the <a href="https://github.com/ekatrukha/TrackMate2MTrackJ/raw/master/importMTrackJTracks.m">import of MTrackJ tracks</a>.
 <br />
 <br />
-<a href="https://github.com/ekatrukha/TrackMate2MTrackJ/raw/master/bin/TrackMate2MTrackJ_0.0.4.jar"><strong>Download link</strong></a> (please, note that you need <a href="http://www.oracle.com/technetwork/java/javase/downloads/index.html">Java</a> installed to run it). For the description refer to the <a href="https://github.com/ekatrukha/TrackMate2MTrackJ/wiki"><strong>Wiki page</strong></a>.
+<a href="https://github.com/ekatrukha/TrackMate2MTrackJ/raw/master/bin/TrackMate2MTrackJ_0.0.4.jar"><strong>Download link</strong></a> (please, note that you need <a href="http://www.oracle.com/technetwork/java/javase/downloads/index.html">Java</a> installed to run it).  
+For the description refer to the <a href="https://github.com/ekatrukha/TrackMate2MTrackJ/wiki"><strong>Wiki page</strong></a>.
 <br />
 <hr />
 Developed in <a href='http://cellbiology.science.uu.nl/'>Cell Biology group</a> of Utrecht University.  
