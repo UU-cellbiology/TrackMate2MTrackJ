@@ -41,3 +41,9 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+.classpath
+bin/TrackMate2MTrackJ$1.class
+bin/TrackMate2MTrackJ$Task.class
+.settings/org.eclipse.jdt.core.prefs
+.project
